@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewZipCdListResponse>
+	<cmmMsgHeader> 
+		<requestMsgId></requestMsgId>
+		<responseMsgId></responseMsgId>
+		<responseTime>20230221:143505744</responseTime>
+		<successYN>Y</successYN>
+		<returnCode>00</returnCode>
+		<errMsg></errMsg>
+		<totalCount>222</totalCount>
+		<countPerPage>10</countPerPage>
+		<totalPage>23</totalPage>
+		<currentPage>1</currentPage>
+	</cmmMsgHeader>
+	<newZipCdList>
+		<zipNo>16274</zipNo>
+		<address>경기도 수원시 장안구 수성로262번길 65 (영화동, 부전빌딩)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>16215</zipNo>
+		<address>경기도 수원시 장안구 연무로42번길 58-6 (연무동, 부전빌라)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>16215</zipNo>
+		<address>경기도 수원시 장안구 연무로42번길 58-8 (연무동, 부전빌라)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>16285</zipNo>
+		<address>경기도 수원시 장안구 조원로 93-1 (조원동, 부전빌라)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>16215</zipNo>
+		<address>경기도 수원시 장안구 창훈로39번길 12-8 (연무동, 부전빌라)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>15433</zipNo>
+		<address>경기도 안산시 단원구 동산로27번길 9 (원시동, 부전전자주식회사)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>15633</zipNo>
+		<address>경기도 안산시 상록구 선진로 43 (사동, 부전전자제2공장)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>15633</zipNo>
+		<address>경기도 안산시 상록구 선진안길 49 (사동, 부전전자부품(주))</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>15633</zipNo>
+		<address>경기도 안산시 상록구 선진안길 59 (사동, 부전전부품(주)공장)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+	<newZipCdList>
+		<zipNo>15632</zipNo>
+		<address>경기도 안산시 상록구 영화1길 5-1 (사동, 부전빌라)</address>
+		<rangeKind></rangeKind>
+	</newZipCdList>
+</NewZipCdListResponse>
